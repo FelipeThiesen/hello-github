@@ -1,2 +1,1 @@
-# hello-github
-Getting started through GitHub Copilot
+This is my first edit on GitHub!
